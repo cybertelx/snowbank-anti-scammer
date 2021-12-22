@@ -28,6 +28,8 @@ npm run dev # Run the bot
 The bot works out-of-the-box, just add your own token!
 (Change .env.EXAMPLE to .env)
 
+[Because of how keyv works, you can use different database types, just install the module for them.](https://npmjs.com/package/keyv)
+
 ### Compile
 
 ```bash
