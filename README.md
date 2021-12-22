@@ -18,15 +18,19 @@ Every time a new member joins, it temporarily assigns a score to them, checking 
 
 ### Development
 
-> git clone https://github.com/cybertelx/snowbank-anti-scammer.git # Clone this repository to your local machine  
-> cd snowbank-anti-scammer # Enter the repo  
-> npm install # Install dependencies  
-> npm run dev # Run the bot
+```js
+git clone https://github.com/cybertelx/snowbank-anti-scammer.git # Clone this repository to your local machine
+cd snowbank-anti-scammer # Enter the repo
+npm install # Install dependencies
+npm run dev # Run the bot
+```
 
 The bot works out-of-the-box, just add your own token!
 (Change .env.EXAMPLE to .env)
 
 ### Compile
 
-> npm i  
-> npm run build
+```js
+npm i
+npm run build
+```
