@@ -5,7 +5,7 @@ A bot to fight against scammers.
 ## How does it work?
 
 Every time a new member joins, it temporarily assigns a score to them, checking for typical signs of scammers.
-(By default) any new user with a score of or above 3 is automatically banned, and the instance gets logged.
+(By default) any new user with a score of or above 3 is automatically banned, ~~and the instance gets logged.~~ that part is still unimplemented.
 
 ### Suspicious signs
 
